@@ -1,0 +1,15 @@
+
+/*campground.create({
+    name:"hideaway camp",
+    img:"https://farm7.staticflickr.com/6057/6234565071_4d20668bbd.jpg",
+    description:"this is the coolest place ever"
+});*/
+/*var campgrounds=[
+        {name:"Hilly valley",img:"https://farm9.staticflickr.com/8442/7962474612_bf2baf67c0.jpg"},
+        {name:"hideaway camp",img:"https://farm1.staticflickr.com/60/215827008_6489cd30c3.jpg"},
+        {name:"nature's heaven",img:"https://farm9.staticflickr.com/8442/7962474612_bf2baf67c0.jpg"},
+        {name:"chilly camp",img:"https://farm7.staticflickr.com/6057/6234565071_4d20668bbd.jpg"},
+        {name:"Hilly valley",img:"https://farm9.staticflickr.com/8442/7962474612_bf2baf67c0.jpg"}
+    ];*/
+       <img class="img" src="http://www.kashmirhills.com/wp-content/uploads/2015/02/camping-1.jpg">
+    <img class="img" src="https://www.beyondthetent.com/wp-content/uploads/2015/06/WOW-Camping-Photo.jpg">

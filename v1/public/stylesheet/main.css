@@ -1,0 +1,101 @@
+.thumbnail img{
+    width: 100%;
+}
+.thumbnail {
+    padding: 0;
+}
+.thumbnail .caption-full {
+    padding: 9px;
+}
+#delete-form{
+    display: inline;
+}
+ #map {
+        height: 400px;
+        width: 100%;
+       }
+#glyphicon{
+    font-size: 60px;
+    padding-right: 20px;
+}
+#content{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+#landing{
+	background-image: url("https://farm1.staticflickr.com/60/215827008_6489cd30c3.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+    color:inherit;
+    height: 1000px;
+    
+}
+.la{
+	width: 400px;
+		border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#la{
+	font-weight: 700;
+	font-size: 5em;
+}
+html{
+	height: 100%;
+}
+.img{
+    position: absolute;
+    width: 1400px;
+    height: 700px;
+    animation-name: anim;
+    animation-duration:8s;
+    animation-timing-function: ease-in-out;
+     animation-iteration-count: infinite;
+}
+.img:nth-child(1){
+  
+    animation-delay: 8s;
+    
+}
+.img:nth-child(2){
+    
+    animation-delay: 6s;
+    
+}
+.img:nth-child(3){
+   
+    animation-delay: 4s;
+   
+}
+.img:nth-child(4){
+  
+    animation-delay: 2s;
+  
+    
+}
+.img:nth-child(5){
+  
+    animation-delay: 0s;
+  
+}
+@keyframes anim{
+   0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
